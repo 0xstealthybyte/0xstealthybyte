@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Bringing+Neurons+Under+Influence+Of+Extreme+Logic;Or+In+Other+Words+--+Creativity*" alt="Typing SVG" />
-</p>
-<p align="center">
   <svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
       .neuron { fill: #39FF14; filter: drop-shadow(0 0 5px #39FF14); }
@@ -49,3 +47,6 @@
     </text>
   </svg>
 </p>
+
+  
+
